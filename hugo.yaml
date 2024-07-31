@@ -49,12 +49,12 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "maobushi's page"
-  author: Theme PaperMod
+  author: maobushi
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -105,7 +105,7 @@ params:
   editPost:
     URL: "https://github.com/maobushi/maobushi.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 
   assets:
     disableHLJS: true
