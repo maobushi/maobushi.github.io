@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Masayasu Obushi</title>
-    <link>http://localhost:1313/</link>
+    <link>https://maobushi.github.io/</link>
     <description>Recent content on Masayasu Obushi</description>
     <image>
       <title>Masayasu Obushi</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://maobushi.github.io/images/papermod-cover.png</url>
+      <link>https://maobushi.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.130.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jul 2024 20:19:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maobushi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://maobushi.github.io/contact/</link>
       <pubDate>Wed, 31 Jul 2024 20:19:04 +0900</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://maobushi.github.io/contact/</guid>
       <description>mail:
 49d14ba3-0a43-44c0-8c84-bf7bfee20350@mailer.me PGP:
 -----BEGIN PGP PUBLIC KEY BLOCK----- mDMEZqofRxYJKwYBBAHaRw8BAQdAipc2bV1IJGArhoPm3BXBwgU23Mx8zNnoVNQX /7m1hTy0OW1hb2J1c2hpIDw0OWQxNGJhMy0wYTQzLTQ0YzAtOGM4NC1iZjdiZmVl MjAzNTBAbWFpbGVyLm1lPoiZBBMWCgBBFiEEP2snf7oMzAg4+AwVoqfh+dGKKagF AmaqH0cCGwMFCQWjmoAFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQoqfh +dGKKahu9wD+LqJ8t1F5/sZLLs6bl1xVDt6RTsBLwCN8MlGfBctVqMEBALhX12Nn LCXY1WfkK6U23rWn3jcnslUwXq8F05HzwoYJuDgEZqofRxIKKwYBBAGXVQEFAQEH QIGzxfKr91kKlZYjetSDt01sAZ/QLX5seHdCx6UQsdAlAwEIB4h+BBgWCgAmFiEE P2snf7oMzAg4+AwVoqfh+dGKKagFAmaqH0cCGwwFCQWjmoAACgkQoqfh+dGKKahj kgEAkJLsdOgyIdPMl6cnAX1KAzvLr/KNA6vd0lqmc5LoglkBAK6fW3dpM0K8BZNk d1ZVDAi2lQTZLXRQjcrpBO09c2AA =H5QT -----END PGP PUBLIC KEY BLOCK----- </description>
