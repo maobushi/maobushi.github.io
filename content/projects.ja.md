@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "プロジェクト"
 layout: "projects"
 ---
 

@@ -15,19 +15,6 @@
                 href="https://maobushi.github.io/ja/"
                 />
   </url><url>
-    <loc>https://maobushi.github.io/ja/resume/</loc>
-    <lastmod>2024-07-31T20:19:04+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maobushi.github.io/resume/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://maobushi.github.io/ja/resume/"
-                />
-  </url><url>
     <loc>https://maobushi.github.io/ja/contact/</loc>
     <lastmod>2024-07-31T20:19:04+09:00</lastmod>
     <xhtml:link
@@ -41,6 +28,19 @@
                 href="https://maobushi.github.io/ja/contact/"
                 />
   </url><url>
+    <loc>https://maobushi.github.io/ja/resume/</loc>
+    <lastmod>2024-07-31T20:19:04+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maobushi.github.io/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://maobushi.github.io/ja/resume/"
+                />
+  </url><url>
     <loc>https://maobushi.github.io/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,18 +51,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://maobushi.github.io/ja/categories/"
-                />
-  </url><url>
-    <loc>https://maobushi.github.io/ja/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maobushi.github.io/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://maobushi.github.io/ja/projects/"
                 />
   </url><url>
     <loc>https://maobushi.github.io/ja/series/</loc>
@@ -87,6 +75,18 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://maobushi.github.io/ja/tags/"
+                />
+  </url><url>
+    <loc>https://maobushi.github.io/ja/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maobushi.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://maobushi.github.io/ja/projects/"
                 />
   </url>
 </urlset>
