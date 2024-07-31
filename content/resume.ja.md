@@ -19,12 +19,12 @@ draft = false
 
 # 受賞歴
 
-- 2019: RoboRAVE Kaga Japan / [Robovate Category Winner](https://www.roborave-kaga.com/result-2019/)
-- 2019: 異能ベーション/ [Nominate](https://www.inno.go.jp/result/2019/generation/nominate/)
-- 2020: WRO Japan 2022 / Second Place
+- 2019: RoboRAVE Kaga Japan / [Robovate 部門 優勝](https://www.roborave-kaga.com/result-2019/)
+- 2019: 異能ベーション/ [ノミネート](https://www.inno.go.jp/result/2019/generation/nominate/)
+- 2020: WRO Japan 2022 / 2位
 - 2023: ETH Global Tokyo / [Polygon Prize](https://ethglobal.com/showcase/chatgroupwallet-dvv0y)
-- 2023: web3 Global Hackathon 2023AW / [web3 Foundation Category Winner](https://github.com/maobushi/CarbonMobilityLedger) & [Mazda excellence Award Winner](https://github.com/wasabijiro/enn-drive)
-- 2024: EY Strategy 学生ルール形成コンテスト / [Third Place](https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results)
+- 2023: web3 Global Hackathon 2023AW / [web3 Foundation 部門 優勝](https://github.com/maobushi/CarbonMobilityLedger) & [Mazda excellence Award 優勝](https://github.com/wasabijiro/enn-drive)
+- 2024: EY Strategy 学生ルール形成コンテスト / [3位](https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results)
 
 # 経験
 
