@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Masayasu Obushi</title>
-    <link>https://maobushi.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Masayasu Obushi</description>
     <image>
       <title>Masayasu Obushi</title>
-      <url>https://maobushi.github.io/images/papermod-cover.png</url>
-      <link>https://maobushi.github.io/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.130.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jul 2024 20:19:04 +0900</lastBuildDate>
-    <atom:link href="https://maobushi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://maobushi.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 31 Jul 2024 20:19:04 +0900</pubDate>
-      <guid>https://maobushi.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>mail:
 49d14ba3-0a43-44c0-8c84-bf7bfee20350@mailer.me PGP:
 -----BEGIN PGP PUBLIC KEY BLOCK----- mDMEZqofRxYJKwYBBAHaRw8BAQdAipc2bV1IJGArhoPm3BXBwgU23Mx8zNnoVNQX /7m1hTy0OW1hb2J1c2hpIDw0OWQxNGJhMy0wYTQzLTQ0YzAtOGM4NC1iZjdiZmVl MjAzNTBAbWFpbGVyLm1lPoiZBBMWCgBBFiEEP2snf7oMzAg4+AwVoqfh+dGKKagF AmaqH0cCGwMFCQWjmoAFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQoqfh +dGKKahu9wD+LqJ8t1F5/sZLLs6bl1xVDt6RTsBLwCN8MlGfBctVqMEBALhX12Nn LCXY1WfkK6U23rWn3jcnslUwXq8F05HzwoYJuDgEZqofRxIKKwYBBAGXVQEFAQEH QIGzxfKr91kKlZYjetSDt01sAZ/QLX5seHdCx6UQsdAlAwEIB4h+BBgWCgAmFiEE P2snf7oMzAg4+AwVoqfh+dGKKagFAmaqH0cCGwwFCQWjmoAACgkQoqfh+dGKKahj kgEAkJLsdOgyIdPMl6cnAX1KAzvLr/KNA6vd0lqmc5LoglkBAK6fW3dpM0K8BZNk d1ZVDAi2lQTZLXRQjcrpBO09c2AA =H5QT -----END PGP PUBLIC KEY BLOCK----- </description>
     </item>
     <item>
       <title>Resume</title>
-      <link>https://maobushi.github.io/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Wed, 31 Jul 2024 20:19:04 +0900</pubDate>
-      <guid>https://maobushi.github.io/resume/</guid>
+      <guid>http://localhost:1313/resume/</guid>
       <description>PDF Download
-History 事業開発ディレクターおよびソフトウェアエンジニアとして、特に最先端のブロックチェーン分野やフロントエンド技術において強い技術的専門性を持つ。国内外で多くのハッカソンに出場し、数ある Prize を獲得してきた。 新しい技術の迅速な習得からアイデアの創出、実装、そして提案までの一連のプロセスを効率的に進めることに長けている。
-Education 2021 - 2023: École 42 Tokyo Campus 2023 - present: National Institute of Technology, Ibaraki College 2023 - present: INAMI LAB, (RCAST), THE UNIVERSITY OF TOKYO Award 2019: RoboRAVE Kaga Japan / Robovate Category Winner 2019: Innovation/ Nominate 2020: WRO Japan 2022 / Second Place 2023: ETH Global Tokyo / Polygon Prize 2023: web3 Global Hackathon 2023AW / web3 Foundation Category Winner &amp;amp; Mazda excellence Award Winner 2024: EY Strategy 学生ルール形成コンテスト / Third Place Experience 2022 - 2023: CyberneX Inc.</description>
+Profile A full-stack engineer with extensive technical knowledge, focusing on protocol-level development centered around blockchain technology and web application development. As a tech lead, has won numerous prizes in both domestic and international hackathons.
+Education 2021 - 2023: École 42 Tokyo Campus 2023 - present: National Institute of Technology, Ibaraki College, Department of Global Engineering, Information Technology 2023 - present: Inami-Kakeuchi Laboratory, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo 2024 - present: Selected as 5th Generation Participant, Experts in Information Science Program, National Institute of Informatics in Japan Awards 2019: RoboRAVE Kaga Japan / Robovate Category Winner 2019: Innovation / Nominate 2020: WRO Japan 2022 / Second Place 2023: ETH Global Tokyo / Polygon Prize 2023: web3 Global Hackathon 2023AW / web3 Foundation Category Winner &amp;amp; Mazda Excellence Award Winner 2024: EY Strategy Student Rule Formation Contest / Third Place Experience 2022 - 2023: CyberneX Inc.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://maobushi.github.io/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maobushi.github.io/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
   </channel>
