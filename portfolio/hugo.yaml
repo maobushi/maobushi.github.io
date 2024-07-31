@@ -86,6 +86,11 @@ params:
     Content: >
       - As a Software Engineer and Business Development Director , I specialize in cutting-edge blockchain technology, where I bring a strong technical expertise.
 
+  social:
+    github: "https://github.com/maobushi"
+    twitter: "https://x.com/maobushi"
+    buymeacoffee: "https://www.buymeacoffee.com/maobushi"
+
   socialIcons:
     - name: github
       title: View Source on Github
