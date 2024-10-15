@@ -25,11 +25,13 @@ A full-stack engineer with extensive technical knowledge, focusing on protocol-l
 - 2023: ETH Global Tokyo / [Polygon Prize](https://ethglobal.com/showcase/chatgroupwallet-dvv0y)
 - 2023: web3 Global Hackathon 2023AW / [web3 Foundation Category Winner](https://github.com/maobushi/CarbonMobilityLedger) & [Mazda Excellence Award Winner](https://github.com/wasabijiro/enn-drive)
 - 2024: EY Strategy Student Rule Formation Contest / [Third Place](https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results)
+- 2024: ETH Global Singapore / [World Coin Best Use of World ID 1st place & Airdao Prediction Market on AirDAO 1st place](https://ethglobal.com/showcase/trendmarket-kummv)
 
 # Experience
 
 - 2022 - 2023: CyberneX Inc. / Research Intern
 - 2024: Clout Inc. / Director
+- 2024 - present: D-Chain R&D Inc. / Director
 
 # Languages
 

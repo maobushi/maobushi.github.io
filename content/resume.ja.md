@@ -25,11 +25,13 @@ draft = false
 - 2023: ETH Global Tokyo / [Polygon Prize](https://ethglobal.com/showcase/chatgroupwallet-dvv0y)
 - 2023: web3 Global Hackathon 2023AW / [web3 Foundation 部門 優勝](https://github.com/maobushi/CarbonMobilityLedger) & [Mazda excellence Award 優勝](https://github.com/wasabijiro/enn-drive)
 - 2024: EY Strategy 学生ルール形成コンテスト / [3位](https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results)
+- 2024: ETH Global Singapore / [World Coin Best Use of World ID 優勝 & Airdao Prediction Market on AirDAO 優勝](https://ethglobal.com/showcase/trendmarket-kummv)
 
 # 経験
 
 - 2022 - 2023: CyberneX Inc. / 研究インターン生
 - 2024: Clout Inc. / ディレクター
+- 2024 - 現在: D-Chain R&D Inc. / ディレクター
 
 # 言語
 - 日本語(母国語)
