@@ -32,6 +32,7 @@ A full-stack engineer with extensive technical knowledge, focusing on protocol-l
 - 2022 - 2023: CyberneX Inc. / Research Intern
 - 2024: Clout Inc. / Director
 - 2024 - present: D-Chain R&D Inc. / Director
+- 2024 - present: Delphi Research / Director
 
 # Languages
 

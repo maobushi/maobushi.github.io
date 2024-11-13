@@ -15,16 +15,16 @@ draft = false
 - 2021 - 2023: École 42 Tokyo Campus
 - 2023 - 現在: 独立行政法人国立高等専門学校機構 茨城工業高等専門学校 国際創造工学科 情報系
 - 2023 - 現在: 東京大学 先端科学技術研究センター 稲見・門内研究室
-- 2024 - 現在: 国立情報学研究所 情報科学の達人 5期生採択
+- 2024 - 現在: 国立情報学研究所 情報科学の達人 5 期生採択
 
 # 受賞歴
 
 - 2019: RoboRAVE Kaga Japan / [Robovate 部門 優勝](https://www.roborave-kaga.com/result-2019/)
 - 2019: 異能ベーション/ [ノミネート](https://www.inno.go.jp/result/2019/generation/nominate/)
-- 2020: WRO Japan 2022 / 2位
+- 2020: WRO Japan 2022 / 2 位
 - 2023: ETH Global Tokyo / [Polygon Prize](https://ethglobal.com/showcase/chatgroupwallet-dvv0y)
 - 2023: web3 Global Hackathon 2023AW / [web3 Foundation 部門 優勝](https://github.com/maobushi/CarbonMobilityLedger) & [Mazda excellence Award 優勝](https://github.com/wasabijiro/enn-drive)
-- 2024: EY Strategy 学生ルール形成コンテスト / [3位](https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results)
+- 2024: EY Strategy 学生ルール形成コンテスト / [3 位](https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results)
 - 2024: ETH Global Singapore / [World Coin Best Use of World ID 優勝 & Airdao Prediction Market on AirDAO 優勝](https://ethglobal.com/showcase/trendmarket-kummv)
 
 # 経験
@@ -32,8 +32,10 @@ draft = false
 - 2022 - 2023: CyberneX Inc. / 研究インターン生
 - 2024: Clout Inc. / ディレクター
 - 2024 - 現在: D-Chain R&D Inc. / ディレクター
+- 2024 - 現在: Delphi Research / ディレクター
 
 # 言語
+
 - 日本語(母国語)
 - 英語(ビジネス)
 
