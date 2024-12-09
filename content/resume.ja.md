@@ -26,6 +26,7 @@ draft = false
 - 2023: web3 Global Hackathon 2023AW / [web3 Foundation 部門 優勝](https://github.com/maobushi/CarbonMobilityLedger) & [Mazda excellence Award 優勝](https://github.com/wasabijiro/enn-drive)
 - 2024: EY Strategy 学生ルール形成コンテスト / [3 位](https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results)
 - 2024: ETH Global Singapore / [World Coin Best Use of World ID 優勝 & Airdao Prediction Market on AirDAO 優勝](https://ethglobal.com/showcase/trendmarket-kummv)
+- 2024: ETH Global Bangkok / [Blockscout - Blockscout Explorer Big Pool Prize & Mantle - Best DeFi Project](https://ethglobal.com/showcase/preswap-essr5)
 
 # 経験
 
