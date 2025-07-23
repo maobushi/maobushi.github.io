@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Masayasu Obushi</title>
-    <link>https://maobushi.github.io/ja/</link>
+    <link>http://localhost:1313/ja/</link>
     <description>Recent content on Masayasu Obushi</description>
     <image>
       <title>Masayasu Obushi</title>
-      <url>https://maobushi.github.io/images/papermod-cover.png</url>
-      <link>https://maobushi.github.io/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 31 Jul 2024 20:19:04 +0900</lastBuildDate>
-    <atom:link href="https://maobushi.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>お問い合わせ</title>
-      <link>https://maobushi.github.io/ja/contact/</link>
+      <link>http://localhost:1313/ja/contact/</link>
       <pubDate>Wed, 31 Jul 2024 20:19:04 +0900</pubDate>
-      <guid>https://maobushi.github.io/ja/contact/</guid>
+      <guid>http://localhost:1313/ja/contact/</guid>
       <description>メールアドレス:
 49d14ba3-0a43-44c0-8c84-bf7bfee20350@mailer.me PGP:
 -----BEGIN PGP PUBLIC KEY BLOCK----- mDMEZqofRxYJKwYBBAHaRw8BAQdAipc2bV1IJGArhoPm3BXBwgU23Mx8zNnoVNQX /7m1hTy0OW1hb2J1c2hpIDw0OWQxNGJhMy0wYTQzLTQ0YzAtOGM4NC1iZjdiZmVl MjAzNTBAbWFpbGVyLm1lPoiZBBMWCgBBFiEEP2snf7oMzAg4+AwVoqfh+dGKKagF AmaqH0cCGwMFCQWjmoAFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQoqfh +dGKKahu9wD+LqJ8t1F5/sZLLs6bl1xVDt6RTsBLwCN8MlGfBctVqMEBALhX12Nn LCXY1WfkK6U23rWn3jcnslUwXq8F05HzwoYJuDgEZqofRxIKKwYBBAGXVQEFAQEH QIGzxfKr91kKlZYjetSDt01sAZ/QLX5seHdCx6UQsdAlAwEIB4h+BBgWCgAmFiEE P2snf7oMzAg4+AwVoqfh+dGKKagFAmaqH0cCGwwFCQWjmoAACgkQoqfh+dGKKahj kgEAkJLsdOgyIdPMl6cnAX1KAzvLr/KNA6vd0lqmc5LoglkBAK6fW3dpM0K8BZNk d1ZVDAi2lQTZLXRQjcrpBO09c2AA =H5QT -----END PGP PUBLIC KEY BLOCK----- </description>
     </item>
     <item>
       <title>履歴</title>
-      <link>https://maobushi.github.io/ja/resume/</link>
+      <link>http://localhost:1313/ja/resume/</link>
       <pubDate>Wed, 31 Jul 2024 20:19:04 +0900</pubDate>
-      <guid>https://maobushi.github.io/ja/resume/</guid>
+      <guid>http://localhost:1313/ja/resume/</guid>
       <description>PDF Download
 経歴 ブロックチェーンを中心としたプロトコルレベルの開発を中心に、ウェブアプリ開発などのフルスタックエンジニアとして幅広い技術的知見を持つ。国内外でのハッカソンではテックリードとして数ある Prize を獲得。
-教育 2021 - 2023: École 42 Tokyo Campus 2023 - 現在: 独立行政法人国立高等専門学校機構 茨城工業高等専門学校 国際創造工学科 情報系 2023 - 現在: 東京大学 先端科学技術研究センター 稲見・門内研究室 2024 - 現在: 国立情報学研究所 情報科学の達人 5 期生採択 受賞歴 2019: RoboRAVE Kaga Japan / Robovate 部門 優勝 2019: 異能ベーション/ ノミネート 2020: WRO Japan 2022 / 2 位 2023: ETH Global Tokyo / Polygon Prize 2023: web3 Global Hackathon 2023AW / web3 Foundation 部門 優勝 &amp;amp; Mazda excellence Award 優勝 2024: EY Strategy 学生ルール形成コンテスト / 3 位 2024: ETH Global Singapore / World Coin Best Use of World ID 優勝 &amp;amp; Airdao Prediction Market on AirDAO 優勝 2024: ETH Global Bangkok / Blockscout - Blockscout Explorer Big Pool Prize &amp;amp; Mantle - Best DeFi Project 経験 2022 - 2023: CyberneX Inc.</description>
+教育 2021 - 2023: École 42 Tokyo Campus 2023 - 2025: 独立行政法人国立高等専門学校機構 茨城工業高等専門学校 国際創造工学科 情報系 2023 - 2024: 東京大学 先端科学技術研究センター 稲見・門内研究室 2024: 国立情報学研究所 情報科学の達人 5 期生採択 受賞歴 2019: RoboRAVE Kaga Japan / Robovate 部門 優勝 2019: 異能ベーション/ ノミネート 2020: WRO Japan 2022 / 2 位 2023: ETH Global Tokyo / Polygon Prize 2023: web3 Global Hackathon 2023AW / web3 Foundation 部門 優勝 &amp;amp; Mazda excellence Award 優勝 2024: EY Strategy 学生ルール形成コンテスト / 3 位 2024: ETH Global Singapore / World Coin Best Use of World ID 優勝 &amp;amp; Airdao Prediction Market on AirDAO 優勝 2024: ETH Global Bangkok / Blockscout - Blockscout Explorer Big Pool Prize &amp;amp; Mantle - Best DeFi Project 2025: Consensys Hongkong 2025 / Origin Trail Track - 3位 2025: Trend Hack / 2位 2025: Polymarket Open Builders Program / ファイナリスト 経験 2022 - 2023: CyberneX Inc.</description>
     </item>
     <item>
       <title>プロジェクト</title>
-      <link>https://maobushi.github.io/ja/projects/</link>
+      <link>http://localhost:1313/ja/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maobushi.github.io/ja/projects/</guid>
+      <guid>http://localhost:1313/ja/projects/</guid>
       <description></description>
     </item>
   </channel>

@@ -13,9 +13,9 @@ A full-stack engineer with extensive technical knowledge, focusing on protocol-l
 # Education
 
 - 2021 - 2023: École 42 Tokyo Campus
-- 2023 - present: National Institute of Technology, Ibaraki College, Department of Global Engineering, Information Technology
-- 2023 - present: Inami-Kakeuchi Laboratory, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo
-- 2024 - present: Selected as 5th Generation Participant, Experts in Information Science Program, National Institute of Informatics in Japan
+- 2023 - 2025: National Institute of Technology, Ibaraki College, Department of Global Engineering, Information Technology
+- 2023 - 2024: Inami-Kakeuchi Laboratory, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo
+- 2024: Selected as 5th Generation Participant, Experts in Information Science Program, National Institute of Informatics in Japan
 
 # Awards
 
@@ -27,13 +27,17 @@ A full-stack engineer with extensive technical knowledge, focusing on protocol-l
 - 2024: EY Strategy Student Rule Formation Contest / [Third Place](https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results)
 - 2024: ETH Global Singapore / [World Coin Best Use of World ID 1st place & Airdao Prediction Market on AirDAO 1st place](https://ethglobal.com/showcase/trendmarket-kummv)
 - 2024: ETH Global Bangkok / [Blockscout - Blockscout Explorer Big Pool Prize & Mantle - Best DeFi Project](https://ethglobal.com/showcase/preswap-essr5)
+- 2025: Consensys Hongkong 2025 / [Origin Trail Track - Third Place](https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/02/27/consensus-hackathon-winners-ai-agents-gaming-trading-payments-and-nfts) 
+- 2025: Trend Hack / [2nd Place](https://x.com/SuperteamJapan/status/1917194635887390917)
+- 2025: Polymarket Open Builders Program / Finalist
+
 
 # Experience
 
 - 2022 - 2023: CyberneX Inc. / Research Intern
 - 2024: Clout Inc. / Director
-- 2024 - present: D-Chain R&D Inc. / Director
-- 2024 - present: Delphi Research / Director
+- 2024 - 2025: D-Chain Inc. R&D / Director
+- 2024 - 2025: Delphi Research / Director
 
 # Languages
 
@@ -42,11 +46,12 @@ A full-stack engineer with extensive technical knowledge, focusing on protocol-l
 
 # Skills
 
-- Languages: C (3+ yrs), Python (3+ yrs), TypeScript (2+ yrs), JavaScript (2+ yrs), Swift (1+ yrs), Solidity (0.5+ yrs), Rust (0.5+ yrs)
-- Web: React, Next.js, SolidJS, TailwindCSS
+- Languages: C (3+ yrs), Python (3+ yrs), TypeScript (3+ yrs), JavaScript (2+ yrs), Swift (1+ yrs), Solidity (0.5+ yrs), Rust (0.5+ yrs)
+- Web: React, Next.js, TailwindCSS, Supabase, Stripe
 - Data Analysis: pandas, numpy, matplotlib
 - Machine Learning: scikit-learn
 - CI/Container: Docker, Git
+- AI: Claude Code
 
 # Media
 
