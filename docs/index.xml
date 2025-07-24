@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Masayasu Obushi</title>
-    <link>http://localhost:1313/</link>
+    <link>https://maobushi.github.io/</link>
     <description>Recent content on Masayasu Obushi</description>
     <image>
       <title>Masayasu Obushi</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://maobushi.github.io/images/papermod-cover.png</url>
+      <link>https://maobushi.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jul 2024 20:19:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maobushi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://maobushi.github.io/contact/</link>
       <pubDate>Wed, 31 Jul 2024 20:19:04 +0900</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://maobushi.github.io/contact/</guid>
       <description>mail:
 49d14ba3-0a43-44c0-8c84-bf7bfee20350@mailer.me PGP:
 -----BEGIN PGP PUBLIC KEY BLOCK----- mDMEZqofRxYJKwYBBAHaRw8BAQdAipc2bV1IJGArhoPm3BXBwgU23Mx8zNnoVNQX /7m1hTy0OW1hb2J1c2hpIDw0OWQxNGJhMy0wYTQzLTQ0YzAtOGM4NC1iZjdiZmVl MjAzNTBAbWFpbGVyLm1lPoiZBBMWCgBBFiEEP2snf7oMzAg4+AwVoqfh+dGKKagF AmaqH0cCGwMFCQWjmoAFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQoqfh +dGKKahu9wD+LqJ8t1F5/sZLLs6bl1xVDt6RTsBLwCN8MlGfBctVqMEBALhX12Nn LCXY1WfkK6U23rWn3jcnslUwXq8F05HzwoYJuDgEZqofRxIKKwYBBAGXVQEFAQEH QIGzxfKr91kKlZYjetSDt01sAZ/QLX5seHdCx6UQsdAlAwEIB4h+BBgWCgAmFiEE P2snf7oMzAg4+AwVoqfh+dGKKagFAmaqH0cCGwwFCQWjmoAACgkQoqfh+dGKKahj kgEAkJLsdOgyIdPMl6cnAX1KAzvLr/KNA6vd0lqmc5LoglkBAK6fW3dpM0K8BZNk d1ZVDAi2lQTZLXRQjcrpBO09c2AA =H5QT -----END PGP PUBLIC KEY BLOCK----- </description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://maobushi.github.io/resume/</link>
       <pubDate>Wed, 31 Jul 2024 20:19:04 +0900</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://maobushi.github.io/resume/</guid>
       <description>PDF Download
 Profile A full-stack engineer with extensive technical knowledge, focusing on protocol-level development centered around blockchain technology and web application development. As a tech lead, has won numerous prizes in both domestic and international hackathons.
 Education 2021 - 2023: École 42 Tokyo Campus 2023 - 2025: National Institute of Technology, Ibaraki College, Department of Global Engineering, Information Technology 2023 - 2024: Inami-Kakeuchi Laboratory, Research Center for Advanced Science and Technology (RCAST), The University of Tokyo 2024: Selected as 5th Generation Participant, Experts in Information Science Program, National Institute of Informatics in Japan Awards 2019: RoboRAVE Kaga Japan / Robovate Category Winner 2019: Innovation / Nominate 2020: WRO Japan 2022 / Second Place 2023: ETH Global Tokyo / Polygon Prize 2023: web3 Global Hackathon 2023AW / web3 Foundation Category Winner &amp;amp; Mazda Excellence Award Winner 2024: EY Strategy Student Rule Formation Contest / Third Place 2024: ETH Global Singapore / World Coin Best Use of World ID 1st place &amp;amp; Airdao Prediction Market on AirDAO 1st place 2024: ETH Global Bangkok / Blockscout - Blockscout Explorer Big Pool Prize &amp;amp; Mantle - Best DeFi Project 2025: Consensys Hongkong 2025 / Origin Trail Track - Third Place 2025: Trend Hack / 2nd Place 2025: Polymarket Open Builders Program / Finalist Experience 2022 - 2023: CyberneX Inc.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://maobushi.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://maobushi.github.io/projects/</guid>
       <description></description>
     </item>
   </channel>

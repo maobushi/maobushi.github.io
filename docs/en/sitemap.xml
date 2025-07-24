@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://maobushi.github.io/contact/</loc>
     <lastmod>2024-07-31T20:19:04+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/contact/"
+                href="https://maobushi.github.io/ja/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/contact/"
+                href="https://maobushi.github.io/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://maobushi.github.io/</loc>
     <lastmod>2024-07-31T20:19:04+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/"
+                href="https://maobushi.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://maobushi.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://maobushi.github.io/resume/</loc>
     <lastmod>2024-07-31T20:19:04+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/resume/"
+                href="https://maobushi.github.io/ja/resume/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/resume/"
+                href="https://maobushi.github.io/resume/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://maobushi.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                href="https://maobushi.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://maobushi.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://maobushi.github.io/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/projects/"
+                href="https://maobushi.github.io/ja/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/projects/"
+                href="https://maobushi.github.io/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://maobushi.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/series/"
+                href="https://maobushi.github.io/ja/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://maobushi.github.io/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://maobushi.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
+                href="https://maobushi.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://maobushi.github.io/tags/"
                 />
   </url>
 </urlset>
