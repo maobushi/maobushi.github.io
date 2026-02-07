@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="en" dir="auto" data-theme="auto">
 
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,10 +7,13 @@
 <meta name="robots" content="index, follow">
 <title>Projects | Masayasu Obushi</title>
 <meta name="keywords" content="">
-<meta name="description" content="Projects - Masayasu Obushi">
+<meta name="description" content="
+Knockout
+Tokyo Builders&rsquo; Arena 2025 (Sui × ONE Championship) - 1st Place (33 teams) | Role: Tech Lead
+A participatory leveraged betting app for combat sports. Users pick a fighter (Team A / Team B) and tap to increase their leverage — stake is calculated as base_stake × n^taps. Built on Sui blockchain for transparent, tamper-proof bet logic and fund caps. Features round-based time limits with KO and time-up mechanics, real-time updates via Supabase Realtime, and a mobile-first PWA experience.">
 <meta name="author" content="maobushi">
 <link rel="canonical" href="https://maobushi.github.io/projects/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.fc220c15db4aef0318bbf30adc45d33d4d7c88deff3238b23eb255afdc472ca6.css" integrity="sha256-/CIMFdtK7wMYu/MK3EXTPU18iN7/MjiyPrJVr9xHLKY=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.93efab7c08ed81120c0541d34bd2be8bac4f1c53d83b3f9b9601b752d7397acf.css" integrity="sha256-k&#43;&#43;rfAjtgRIMBUHTS9K&#43;i6xPHFPYOz&#43;blgG3Utc5es8=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://maobushi.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://maobushi.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://maobushi.github.io/favicon-32x32.png">
@@ -40,39 +43,53 @@
                 --code-block-bg: rgb(46, 46, 51);
                 --code-bg: rgb(55, 56, 62);
                 --border: rgb(51, 51, 51);
+                color-scheme: dark;
             }
 
             .list {
                 background: var(--theme);
             }
 
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
+            .toc {
+                background: var(--entry);
             }
+        }
 
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
             }
         }
 
     </style>
 </noscript>
-  
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
 
-<meta property="og:title" content="Projects" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://maobushi.github.io/projects/" />
-<meta property="og:image" content="https://maobushi.github.io/images/papermod-cover.png" />
-<meta property="article:section" content="" />
-
-
-
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://maobushi.github.io/images/papermod-cover.png" />
-<meta name="twitter:title" content="Projects"/>
-<meta name="twitter:description" content=""/>
-<meta name="twitter:site" content="@https://x.com/maobushi"/>
+</script><meta property="og:url" content="https://maobushi.github.io/projects/">
+  <meta property="og:site_name" content="Masayasu Obushi">
+  <meta property="og:title" content="Projects">
+  <meta property="og:description" content=" Knockout Tokyo Builders’ Arena 2025 (Sui × ONE Championship) - 1st Place (33 teams) | Role: Tech Lead
+A participatory leveraged betting app for combat sports. Users pick a fighter (Team A / Team B) and tap to increase their leverage — stake is calculated as base_stake × n^taps. Built on Sui blockchain for transparent, tamper-proof bet logic and fund caps. Features round-based time limits with KO and time-up mechanics, real-time updates via Supabase Realtime, and a mobile-first PWA experience.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+      <meta property="og:image" content="https://maobushi.github.io/images/papermod-cover.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://maobushi.github.io/images/papermod-cover.png">
+<meta name="twitter:title" content="Projects">
+<meta name="twitter:description" content="
+Knockout
+Tokyo Builders&rsquo; Arena 2025 (Sui × ONE Championship) - 1st Place (33 teams) | Role: Tech Lead
+A participatory leveraged betting app for combat sports. Users pick a fighter (Team A / Team B) and tap to increase their leverage — stake is calculated as base_stake × n^taps. Built on Sui blockchain for transparent, tamper-proof bet logic and fund caps. Features round-based time limits with KO and time-up mechanics, real-time updates via Supabase Realtime, and a mobile-first PWA experience.">
+      <meta name="twitter:site" content="@https://x.com/maobushi">
 
 
 <script type="application/ld+json">
@@ -95,12 +112,12 @@
   "@type": "BlogPosting",
   "headline": "Projects",
   "name": "Projects",
-  "description": "",
+  "description": " Knockout Tokyo Builders\u0026rsquo; Arena 2025 (Sui × ONE Championship) - 1st Place (33 teams) | Role: Tech Lead\nA participatory leveraged betting app for combat sports. Users pick a fighter (Team A / Team B) and tap to increase their leverage — stake is calculated as base_stake × n^taps. Built on Sui blockchain for transparent, tamper-proof bet logic and fund caps. Features round-based time limits with KO and time-up mechanics, real-time updates via Supabase Realtime, and a mobile-first PWA experience.\n",
   "keywords": [
     
   ],
-  "articleBody": "",
-  "wordCount" : "0",
+  "articleBody": " Knockout Tokyo Builders’ Arena 2025 (Sui × ONE Championship) - 1st Place (33 teams) | Role: Tech Lead\nA participatory leveraged betting app for combat sports. Users pick a fighter (Team A / Team B) and tap to increase their leverage — stake is calculated as base_stake × n^taps. Built on Sui blockchain for transparent, tamper-proof bet logic and fund caps. Features round-based time limits with KO and time-up mechanics, real-time updates via Supabase Realtime, and a mobile-first PWA experience.\nSui (Move) TypeScript PWA Supabase View on GitHub\nPolynance Pay Trend Hack 2025 (Solana Breakout) - Superteam Japan 2nd Place | Role: Tech Lead\nAn open trading tool that enables people to trade crypto with information from Polymarket. Combines prediction market data with Solana-based payment and trading functionality.\nTypeScript Solana Polymarket Prophet.fun Consensus Hong Kong 2025 - OriginTrail Track 3rd Place (67 projects, $400K+ pool) | Role: Tech Lead\nA platform for users to make prophecies and stake their own money in natural language, like a Twitter for predictions. Users create prophecies, share them as social cards, and redeem or execute them on-chain. Features a vector database simulation for semantic matching of predictions and an oracle verification system using OriginTrail’s Knowledge Graph.\nTypeScript Solidity Foundry Next.js OriginTrail View on GitHub\nPreSwap ETH Global Bangkok 2024 - Blockscout Explorer Big Pool Prize \u0026 Mantle Best DeFi Project (713 projects, $750K pool) | Role: Tech Lead\nA new protocol to solve existing prediction market problems. It uses a vector database (Supabase pgvector) to store and manage prediction market data from platforms like Polymarket and Kalshi, classifying markets by semantic similarity. LLM embeddings vectorize market descriptions to identify similar markets, and ERC1155-based smart contracts enable conditional token creation. It automatically connects similar markets across languages and platforms, solving liquidity fragmentation.\nSolidity Next.js TailwindCSS Supabase pgvector Hardhat Wagmi RainbowKit View Project · GitHub\nTrendMarket ETH Global Singapore 2024 - Worldcoin Best Use of World ID 1st Place \u0026 AirDAO Prediction Market 1st Place (309 submissions, $325K pool) | Role: Tech Lead\nAn innovative prediction market using LLM technology to create and execute markets with minimal human involvement. It solves the quality/liquidity dilemma in prediction markets through AI-driven curation. LLMs handle market creation, proposal outcomes, and matching, enabling fully on-chain transactions without human intervention. Uses a CPAMM contract and a collective AI decision-making process to replace traditional oracles like Chainlink or UMA.\nSolidity TypeScript Next.js World ID AirDAO OpenAI API View Project · GitHub\nRadicalxChange in Libraries EY Strategy Student Rule Formation Contest 2024 - 3rd Place (~100 teams) | Team: 42Tokyo\nProposed a democratic transformation of public libraries using blockchain and quadratic voting (RadicalxChange). Identified three key issues: underutilized reading records, arbitrary book selection by librarians, and limited library roles. Solution: blockchain-based material management linked with private reading records, and quadratic voting to reflect minority opinions in book acquisition decisions.\nBlockchain Quadratic Voting RadicalxChange View Results\nCarbonMobilityLedger web3 Global Hackathon 2023AW - web3 Foundation Category Winner | Role: Tech Lead\n“Your Miles Matter: Move Smart, Earn Smart” - A CarbonDrive App using EVM-compatible public blockchains to implement a “Mobility Carbon Credit” system that incentivizes sustainable mobility. Users earn CarBon Token (CBT) based on driving distance and vehicle level. CBT can be used for EV battery charging (1 CBT = 1 JPY) and tree planting donations. Features include car NFT leveling and a tokenomics system to prevent used car price depreciation.\nSolidity Astar EVM TypeScript View on GitHub\nEnn-Drive web3 Global Hackathon 2023AW - Mazda Excellence Award\nA platform that uses Web3 technology to evaluate driver behavior and promote better driving habits. Drivers give each other “likes” through a mobile app as positive feedback, encouraging good driving behavior. Features zkLogin and SponsoredTransaction for wallet-less participation, and provides a safe driving value index SDK that third-party developers can integrate into their own products.\nTypeScript zkLogin Sui SDK View on GitHub\nChatGroupWallet ETH Global Tokyo 2023 - Polygon Pool Prize (1,500+ participants, 311 projects) | Role: Tech Lead\nUsing Push Protocol’s chat function to create group chats and automatically generate a shared wallet for the group. Skip tedious accounting - just create a group chat to open a common account. Features a smart contract that aggregates payments and handles refunds proportionally when the group disbands. Also supports B2B use cases with approval-based remittance flows via chat, and can be used for DAO fund management.\nSolidity TypeScript Polygon Push Protocol ethers.js View Project\n",
+  "wordCount" : "735",
   "inLanguage": "en",
   "image": "https://maobushi.github.io/images/papermod-cover.png","datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
@@ -123,25 +140,13 @@
 }
 </script>
 </head>
-
-<body class="" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
-</script>
-
-<header class="header">
+<body id="top">
+    <header class="header">
     <nav class="nav">
         <div class="logo">
             <a href="https://maobushi.github.io/" accesskey="h" title="Masayasu Obushi (Alt + H)">Masayasu Obushi</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
@@ -161,12 +166,12 @@
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
-                <ul class="lang-switch"><li>|</li>
-                    <li>
-                        <a href="https://maobushi.github.io/ja/" title="日本語"
-                            aria-label="日本語">日本語</a>
-                    </li>
-                </ul>
+                    <ul class="lang-switch"><li>|</li>
+                        <li>
+                            <a href="https://maobushi.github.io/ja/" title="日本語"
+                                aria-label="日本語">日本語</a>
+                        </li>
+                    </ul>
             </div>
         </div>
         <ul id="menu">
@@ -192,20 +197,126 @@
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="https://maobushi.github.io/">Home</a></div>
+    
     <h1 class="post-title entry-hint-parent">
       Projects
     </h1>
-    <div class="post-meta">0 min&nbsp;·&nbsp;maobushi&nbsp;|&nbsp;Translations:
-<ul class="i18n_list">
-    <li>
-        <a href="https://maobushi.github.io/ja/projects/">日本語</a>
-    </li>
-</ul>&nbsp;|&nbsp;<a href="https://github.com/maobushi/maobushi.github.io/tree/main/content" rel="noopener noreferrer" target="_blank">Suggest Changes</a>
-
-</div>
   </header> 
+  <div class="post-content"><div class="project-entry">
+<h3 id="knockout">Knockout<a hidden class="anchor" aria-hidden="true" href="#knockout">#</a></h3>
+<p><strong>Tokyo Builders&rsquo; Arena 2025</strong> (Sui × ONE Championship) - 1st Place (33 teams) | <em>Role: Tech Lead</em></p>
+<p>A participatory leveraged betting app for combat sports. Users pick a fighter (Team A / Team B) and tap to increase their leverage — stake is calculated as <code>base_stake × n^taps</code>. Built on Sui blockchain for transparent, tamper-proof bet logic and fund caps. Features round-based time limits with KO and time-up mechanics, real-time updates via Supabase Realtime, and a mobile-first PWA experience.</p>
+<div class="tech-stack">
+<span>Sui (Move)</span>
+<span>TypeScript</span>
+<span>PWA</span>
+<span>Supabase</span>
+</div>
+<p><a href="https://github.com/maobushi/knockout">View on GitHub</a></p>
+</div>
+<div class="project-entry">
+<h3 id="polynance-pay">Polynance Pay<a hidden class="anchor" aria-hidden="true" href="#polynance-pay">#</a></h3>
+<p><strong>Trend Hack 2025</strong> (Solana Breakout) - Superteam Japan 2nd Place | <em>Role: Tech Lead</em></p>
+<p>An open trading tool that enables people to trade crypto with information from Polymarket. Combines prediction market data with Solana-based payment and trading functionality.</p>
+<div class="tech-stack">
+<span>TypeScript</span>
+<span>Solana</span>
+<span>Polymarket</span>
+</div>
+</div>
+<div class="project-entry">
+<h3 id="prophetfun">Prophet.fun<a hidden class="anchor" aria-hidden="true" href="#prophetfun">#</a></h3>
+<p><strong>Consensus Hong Kong 2025</strong> - OriginTrail Track 3rd Place (67 projects, $400K+ pool) | <em>Role: Tech Lead</em></p>
+<p>A platform for users to make prophecies and stake their own money in natural language, like a Twitter for predictions. Users create prophecies, share them as social cards, and redeem or execute them on-chain. Features a vector database simulation for semantic matching of predictions and an oracle verification system using OriginTrail&rsquo;s Knowledge Graph.</p>
+<div class="tech-stack">
+<span>TypeScript</span>
+<span>Solidity</span>
+<span>Foundry</span>
+<span>Next.js</span>
+<span>OriginTrail</span>
+</div>
+<p><a href="https://github.com/maobushi/prophetdotfun">View on GitHub</a></p>
+</div>
+<div class="project-entry">
+<h3 id="preswap">PreSwap<a hidden class="anchor" aria-hidden="true" href="#preswap">#</a></h3>
+<p><strong>ETH Global Bangkok 2024</strong> - Blockscout Explorer Big Pool Prize &amp; Mantle Best DeFi Project (713 projects, $750K pool) | <em>Role: Tech Lead</em></p>
+<p>A new protocol to solve existing prediction market problems. It uses a vector database (Supabase pgvector) to store and manage prediction market data from platforms like Polymarket and Kalshi, classifying markets by semantic similarity. LLM embeddings vectorize market descriptions to identify similar markets, and ERC1155-based smart contracts enable conditional token creation. It automatically connects similar markets across languages and platforms, solving liquidity fragmentation.</p>
+<div class="tech-stack">
+<span>Solidity</span>
+<span>Next.js</span>
+<span>TailwindCSS</span>
+<span>Supabase pgvector</span>
+<span>Hardhat</span>
+<span>Wagmi</span>
+<span>RainbowKit</span>
+</div>
+<p><a href="https://ethglobal.com/showcase/preswap-essr5">View Project</a> · <a href="https://github.com/maobushi/pm-acc">GitHub</a></p>
+</div>
+<div class="project-entry">
+<h3 id="trendmarket">TrendMarket<a hidden class="anchor" aria-hidden="true" href="#trendmarket">#</a></h3>
+<p><strong>ETH Global Singapore 2024</strong> - Worldcoin Best Use of World ID 1st Place &amp; AirDAO Prediction Market 1st Place (309 submissions, $325K pool) | <em>Role: Tech Lead</em></p>
+<p>An innovative prediction market using LLM technology to create and execute markets with minimal human involvement. It solves the quality/liquidity dilemma in prediction markets through AI-driven curation. LLMs handle market creation, proposal outcomes, and matching, enabling fully on-chain transactions without human intervention. Uses a CPAMM contract and a collective AI decision-making process to replace traditional oracles like Chainlink or UMA.</p>
+<div class="tech-stack">
+<span>Solidity</span>
+<span>TypeScript</span>
+<span>Next.js</span>
+<span>World ID</span>
+<span>AirDAO</span>
+<span>OpenAI API</span>
+</div>
+<p><a href="https://ethglobal.com/showcase/trendmarket-kummv">View Project</a> · <a href="https://github.com/maobushi/trend-market">GitHub</a></p>
+</div>
+<div class="project-entry">
+<h3 id="radicalxchange-in-libraries">RadicalxChange in Libraries<a hidden class="anchor" aria-hidden="true" href="#radicalxchange-in-libraries">#</a></h3>
+<p><strong>EY Strategy Student Rule Formation Contest 2024</strong> - 3rd Place (~100 teams) | <em>Team: 42Tokyo</em></p>
+<p>Proposed a democratic transformation of public libraries using blockchain and quadratic voting (RadicalxChange). Identified three key issues: underutilized reading records, arbitrary book selection by librarians, and limited library roles. Solution: blockchain-based material management linked with private reading records, and quadratic voting to reflect minority opinions in book acquisition decisions.</p>
+<div class="tech-stack">
+<span>Blockchain</span>
+<span>Quadratic Voting</span>
+<span>RadicalxChange</span>
+</div>
+<p><a href="https://www.ey.com/ja_jp/consulting/strategic-impact/rule-formation-idea-contest-for-student/results">View Results</a></p>
+</div>
+<div class="project-entry">
+<h3 id="carbonmobilityledger">CarbonMobilityLedger<a hidden class="anchor" aria-hidden="true" href="#carbonmobilityledger">#</a></h3>
+<p><strong>web3 Global Hackathon 2023AW</strong> - web3 Foundation Category Winner | <em>Role: Tech Lead</em></p>
+<p>&ldquo;Your Miles Matter: Move Smart, Earn Smart&rdquo; - A CarbonDrive App using EVM-compatible public blockchains to implement a &ldquo;Mobility Carbon Credit&rdquo; system that incentivizes sustainable mobility. Users earn CarBon Token (CBT) based on driving distance and vehicle level. CBT can be used for EV battery charging (1 CBT = 1 JPY) and tree planting donations. Features include car NFT leveling and a tokenomics system to prevent used car price depreciation.</p>
+<div class="tech-stack">
+<span>Solidity</span>
+<span>Astar</span>
+<span>EVM</span>
+<span>TypeScript</span>
+</div>
+<p><a href="https://github.com/maobushi/CarbonMobilityLedger">View on GitHub</a></p>
+</div>
+<div class="project-entry">
+<h3 id="enn-drive">Enn-Drive<a hidden class="anchor" aria-hidden="true" href="#enn-drive">#</a></h3>
+<p><strong>web3 Global Hackathon 2023AW</strong> - Mazda Excellence Award</p>
+<p>A platform that uses Web3 technology to evaluate driver behavior and promote better driving habits. Drivers give each other &ldquo;likes&rdquo; through a mobile app as positive feedback, encouraging good driving behavior. Features zkLogin and SponsoredTransaction for wallet-less participation, and provides a safe driving value index SDK that third-party developers can integrate into their own products.</p>
+<div class="tech-stack">
+<span>TypeScript</span>
+<span>zkLogin</span>
+<span>Sui</span>
+<span>SDK</span>
+</div>
+<p><a href="https://github.com/wasabijiro/enn-drive">View on GitHub</a></p>
+</div>
+<div class="project-entry">
+<h3 id="chatgroupwallet">ChatGroupWallet<a hidden class="anchor" aria-hidden="true" href="#chatgroupwallet">#</a></h3>
+<p><strong>ETH Global Tokyo 2023</strong> - Polygon Pool Prize (1,500+ participants, 311 projects) | <em>Role: Tech Lead</em></p>
+<p>Using Push Protocol&rsquo;s chat function to create group chats and automatically generate a shared wallet for the group. Skip tedious accounting - just create a group chat to open a common account. Features a smart contract that aggregates payments and handles refunds proportionally when the group disbands. Also supports B2B use cases with approval-based remittance flows via chat, and can be used for DAO fund management.</p>
+<div class="tech-stack">
+<span>Solidity</span>
+<span>TypeScript</span>
+<span>Polygon</span>
+<span>Push Protocol</span>
+<span>ethers.js</span>
+</div>
+<p><a href="https://ethglobal.com/showcase/chatgroupwallet-dvv0y">View Project</a></p>
+</div>
 
+
+  </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
@@ -216,9 +327,13 @@
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="https://maobushi.github.io/">Masayasu Obushi</a></span> · 
+        <span>&copy; 2026 <a href="https://maobushi.github.io/">Masayasu Obushi</a></span> · 
 
-    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
@@ -227,9 +342,14 @@
 </a>
 
 <script>
-    let menu = document.getElementById('menu')
+    let menu = document.getElementById('menu');
     if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
         menu.onscroll = function () {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
         }
@@ -270,11 +390,12 @@
 </script>
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
             localStorage.setItem("pref-theme", 'light');
         } else {
-            document.body.classList.add('dark');
+            html.dataset.theme = 'dark';
             localStorage.setItem("pref-theme", 'dark');
         }
     })

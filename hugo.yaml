@@ -4,7 +4,8 @@ baseURL: "https://maobushi.github.io/"
 publishDir: "docs"
 title: Masayasu Obushi
 #copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: [PaperMod]
 
 enableInlineShortcodes: true
@@ -66,18 +67,18 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "maobushi's page"
+  description: "Masayasu Obushi — Full-stack engineer specializing in prediction markets, AI/LLM, and blockchain protocol development."
   author: maobushi
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: false
-  ShowReadingTime: true
+  ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
@@ -88,21 +89,22 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
+    title: "Masayasu Obushi"
+    subtitle: "Prediction Markets × AI/LLM × Blockchain"
+    # imageUrl: "#"
+    # imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+      - name: Resume
+        url: resume
+      - name: Projects
+        url: projects
 
   homeInfoParams:
     Title: "👋 Welcome to my Homepage!"
     Content: >
-      - As a Software Engineer and Business Development Director , I specialize in cutting-edge blockchain technology, where I bring a strong technical expertise.
+      Full-stack engineer specializing in prediction markets and blockchain protocol development. Building at the intersection of AI/LLM and DeFi. 11+ prizes at international hackathons including ETH Global, Consensus, and Polymarket Builders Program.
 
   social:
     github: "https://github.com/maobushi"
@@ -120,10 +122,10 @@ params:
       title: Buy me a coffee :)
       url: "https://www.buymeacoffee.com/maobushi"
 
-  editPost:
-    URL: "https://github.com/maobushi/maobushi.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: false # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/maobushi/maobushi.github.io/tree/main/content"
+  #   Text: "Suggest Changes"
+  #   appendFilePath: false
 
   assets:
     disableHLJS: true
@@ -180,5 +182,5 @@ markup:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
